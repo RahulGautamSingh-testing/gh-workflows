@@ -5,9 +5,9 @@
     ":dependencyDashboard",
     ":disableRateLimiting",
     ":separatePatchReleases",
-    "github>zaggash/gh-workflows//renovate-config/pr-labels",
-    "github>zaggash/gh-workflows//renovate-config/semantic-commits",
-    "github>zaggash/gh-workflows//renovate-config/automerge-docker-digests"
+    "github>RahulGautamSingh-testing/gh-workflows//renovate-config/pr-labels",
+    "github>RahulGautamSingh-testing/gh-workflows//renovate-config/semantic-commits",
+    "github>RahulGautamSingh-testing/gh-workflows//renovate-config/automerge-docker-digests"
   ],
   "platform": "github",
   "onboarding": false,
